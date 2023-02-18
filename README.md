@@ -1,8 +1,8 @@
 # Xray-TLS+Web build/management script
 ## Table of contents
-[1. Scripting Features](#scripting features)
+[1. Scripting Features](#script-Features)
 
-[2. Precautions] (#Notes)
+[2. Precautions] (#precautions)
 
 [3. Installation time description](#Installation time description)
 
